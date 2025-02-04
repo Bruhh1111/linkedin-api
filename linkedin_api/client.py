@@ -25,9 +25,9 @@ class Client(object):
     REQUEST_HEADERS = {
         "user-agent": " ".join(
             [
-                "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5)",
+                "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0)",
                 "AppleWebKit/537.36 (KHTML, like Gecko)",
-                "Chrome/66.0.3359.181 Safari/537.36",
+                "Chrome/132.0.0.0 Safari/537.36",
             ]
         ),
         # "accept": "application/vnd.linkedin.normalized+json+2.1",
